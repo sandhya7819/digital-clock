@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+    color: white;
+    font-family: 'Arial',sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0; 
+}
+.clock{
+    font-size: 60px;
+    background-color: black;
+    padding: 40px;
+    border-radius: 15px;
+    box-sizing: 0 0 20px rgba(255, 255, 255, 0.1);
+}
+#greeting{
+    font-size: 60px;
+    background-color: #1f1f1f;
+    padding: 40px;
+    border-radius: 15px;
+    box-sizing: 0 0 20px rgba(255, 255, 255, 0.1);
+}
+
+/* build a countdown timer */
